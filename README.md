@@ -1,0 +1,3 @@
+# wisdompets
+
+Tutorial django project
